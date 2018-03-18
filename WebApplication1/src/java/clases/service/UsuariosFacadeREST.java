@@ -88,4 +88,10 @@ public class UsuariosFacadeREST extends AbstractFacade<Usuarios> {
         return em;
     }
     
+    @GET
+    @Path("login")
+    @Produces(MediaType.TEXT_PLAIN)
+    public String securedMethod(){
+        return "Se ha iniciado sesión";
+    }
 }
