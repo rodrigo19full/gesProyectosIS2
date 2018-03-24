@@ -6,9 +6,9 @@
         <property name="portNumber" value="5432"/>
         <property name="databaseName" value="gesproyectos"/>
         <property name="User" value="postgres"/>
-        <property name="Password" value="fabifaaa123"/>
+        <property name="Password" value="admin"/>
         <property name="URL" value="jdbc:postgresql://localhost:5432/gesproyectos"/>
         <property name="driverClass" value="org.postgresql.Driver"/>
     </jdbc-connection-pool>
-    <jdbc-resource enabled="true" jndi-name="java:app/bd" object-type="user" pool-name="post-gre-sql_gesproyectos_postgresPool"/>
+    <jdbc-resource enabled="true" jndi-name="java:app/postgres" object-type="user" pool-name="post-gre-sql_gesproyectos_postgresPool"/>
 </resources>
