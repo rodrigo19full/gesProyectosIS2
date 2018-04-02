@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "578773231934",
+    "firebase_url": "https://gesproyectos-1522468265635.firebaseio.com",
+    "project_id": "gesproyectos-1522468265635",
+    "storage_bucket": "gesproyectos-1522468265635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578773231934:android:537c7b24c3e2b205",
+        "android_client_info": {
+          "package_name": "com.example.ro_fa.gesproyectos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578773231934-2rn7mrg45ennuk01cv2n6c341df7sim9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ro_fa.gesproyectos",
+            "certificate_hash": "a2cca3f451182995898bf5f145e964758b4ab73a"
+          }
+        },
+        {
+          "client_id": "578773231934-0cp79njm1g8sc8o2itckqof4l5r48rgu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "578773231934-aarefmqhflrbfs9el5sk1t7d06ip53mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt7x9SLZKroxiq-LBtflOXh29E3lEvGho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578773231934-0cp79njm1g8sc8o2itckqof4l5r48rgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
