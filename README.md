@@ -13,7 +13,7 @@ Para la próxima entrega estaremos corrigiendo eso.
 Proyecto de Ingeniería de Software II
 
 Integrantes 
-- Rodrigo Acuña
+- Rodrigo Fabián Acuña Duarte CI 2.988.338
 - Luz Ramírez
 
 Directorio del Proyecto: WebApplication1
