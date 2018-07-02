@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gestión de Proyectos</string>
+    <string name="title_activity_nav">Menú</string>
+
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="error_campo_requerido">Debes completar este campo</string>
+    <string name="error_email_invalido">El Email que ingresaste no es válido</string>
+    <string name="error_password_no_coincide">Las contraseñas ingresadas no coinciden</string>
+    <string name="action_registrar_usuario">Registrar</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
